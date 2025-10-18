@@ -1,7 +1,7 @@
 ## Clonar repositorio 
 
 En una nueva carpeta VACIA de cualquier nombre (el repositorio ya viene con la carpeta)
->>> copien los codigos nomas
+copien los codigos nomas
 en Visual Studio Code
 1 - abrir la terminal (Ctrl + ñ)
 
