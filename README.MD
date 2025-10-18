@@ -1,3 +1,6 @@
+# ANTES DE EMPESAR A EDITAR(PROGRAMAR) LOS ARCHIVOS TIENEN QUE HACER git pull
+
+
 ## Clonar repositorio
 En una nueva carpeta VACIA de cualquier nombre (el repositorio ya viene con la carpeta) copien los codigos nomas en Visual Studio Code 1 - abrir la terminal (Ctrl + ñ)
 
@@ -25,3 +28,5 @@ benja como es el creador del repositorio tiene que especificar que rama quiere a
 benja: git pull origin nombre_rama_editada     (sin "")
 
 all: git pull
+
+
